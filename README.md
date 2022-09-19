@@ -15,7 +15,8 @@ Companies that will pay a fee to Amazon and may provide free products to Vine me
 
 Of the 50 datasets, I chose to analyze reviews that were made by users in the "Apparel" category.
 
-Dataset used for this analysis can be found https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Apparel_v1_00.tsv.gz
+Dataset used for this analysis can be found
+[Click Here](https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Apparel_v1_00.tsv.gz)
 
 
 ## Results
